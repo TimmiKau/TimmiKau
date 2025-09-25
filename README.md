@@ -1,20 +1,51 @@
 ###
-.
 
-Hi, I am Timmi,  
+ 
+Hi, I’m Timmi 👋
 
+Your personal guide through code, design, and creativity.
+
+Here’s a quick look at my background and what I bring to the table:
 
 🎓 Visual Communication — Malmö University
-
 💻 Front-End Development (YH Exam) — Focus on E-commerce
-
 📚 Currently: Java + AI Programming course at Lexicon
-
 🔧 Goal: Become a Full-Stack Developer
 
 
-.
 
+
+
+
+## 🚀 Projects  
+
+### 🌐 [Mecslaos.com](https://mecslaos.com)  
+💰 Paid project for **Mecs**  
+🔹 Fully responsive online business page with FAQ, About Me, site updates, and more.  
+🛠 Tech used: HTML, CSS, JavaScript, PHP, WordPress  
+
+
+
+### 💻 [Cyber Shop](https://github.com/TimmiKau/Cyber-shop)  
+🔹 A fully working webshop (GitHub project — GitHub Pages unavailable).  
+🛠 Tech used: HTML, CSS, JavaScript  
+
+
+
+### 💻 [Uppgift 7](https://github.com/TimmiKau/uppgift7)  
+🔹 Full WordPress webshop with database integration (GitHub Pages unavailable).  
+🛠 Tech used: WordPress, PHP, MySQL  
+
+
+
+### 📊 [How Much Money Calculator](https://github.com/TimmiKau/How-much-money---calulator)  
+🔹 Website that calculates how much money you want and estimates how long it would take to reach your goal, complete with charts.  
+🛠 Tech used: HTML, CSS, JavaScript  
+
+
+
+
+## Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
