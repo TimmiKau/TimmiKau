@@ -8,8 +8,11 @@ Your personal guide through code, design, and creativity.
 Here’s a quick look at my background and what I bring to the table:
 
 🎓 Visual Communication — Malmö University
+
 💻 Front-End Development (YH Exam) — Focus on E-commerce
+
 📚 Currently: Java + AI Programming course at Lexicon
+
 🔧 Goal: Become a Full-Stack Developer
 
 
