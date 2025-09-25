@@ -3,7 +3,7 @@
 
 Hi, I am Timmi 
 
-About Me (Education & Skills)
+About Me
 
 🎓 Visual Communication — Malmö University
 
