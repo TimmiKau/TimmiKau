@@ -1,9 +1,8 @@
 ###
 .
 
-Hi, I am Timmi 
+Hi, I am Timmi,  
 
-About Me
 
 🎓 Visual Communication — Malmö University
 
