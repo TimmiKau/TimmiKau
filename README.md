@@ -29,19 +29,19 @@ Tech: Java, JDBC, MySQL, HTML, CSS, JavaScript
 
 ---
 
-### Cyber Shop  
-https://github.com/TimmiKau/Cyber-shop  
-
-Frontend webshop prototype with dynamic product rendering and structured component logic.  
-Tech: HTML, CSS, JavaScript
-
----
-
 ### Marketplace API  
 https://github.com/TimmiKau/Marketplace-API
 
 RESTful Spring Boot API for managing classified advertisements with DTO validation and Swagger documentation.  
 Tech: Java, Spring Boot, JPA, MySQL  
+
+---
+
+### Cyber Shop  
+https://github.com/TimmiKau/Cyber-shop  
+
+Frontend webshop prototype with dynamic product rendering and structured component logic.  
+Tech: HTML, CSS, JavaScript
 
 ---
 
