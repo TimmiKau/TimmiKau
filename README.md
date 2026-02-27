@@ -20,6 +20,15 @@ Tech: HTML, CSS, JavaScript, PHP, WordPress
 
 ---
 
+
+### Todo-IT – Full-Stack Task Management System  
+https://github.com/TimmiKau/Todo-IT-Full-Stack-Task-Management-System
+
+Full-stack Java application with role-based authentication, layered architecture, and MySQL persistence.  
+Tech: Java, JDBC, MySQL, HTML, CSS, JavaScript  
+
+---
+
 ### Cyber Shop  
 https://github.com/TimmiKau/Cyber-shop  
 
@@ -28,11 +37,11 @@ Tech: HTML, CSS, JavaScript
 
 ---
 
-### How Much Money Calculator  
-https://github.com/TimmiKau/How-much-money---calulator  
+### Marketplace API  
+https://github.com/TimmiKau/Marketplace-API
 
-Interactive financial calculator with compound interest logic and data visualization.  
-Tech: JavaScript, Chart.js
+RESTful Spring Boot API for managing classified advertisements with DTO validation and Swagger documentation.  
+Tech: Java, Spring Boot, JPA, MySQL  
 
 ---
 
